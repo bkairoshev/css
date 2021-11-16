@@ -1,4 +1,4 @@
-Telegram: @bek_ulan :fire:
+Telegram: @bek_ulan :fire: :fire: :fire:
 
 Структура для CSS. По ситуации надо доработать.
 
